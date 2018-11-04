@@ -39,6 +39,7 @@ Products that had a `demo` setup for live demonstrations and `releases` for down
 **Artificial Intelligence Chat** (`aigui`) was a proxy and unified chat interface for [A.L.I.C.E.](http://alice.pandorabots.com/), [Lauren](http://lauren.vhost.pandorabots.com/pandora/talk?botid=f6d4afd83e34564d), [Elbot](http://www.elbot.com/), [Kyle](http://leeds-city-guide.com/kyle), [Splotchy](https://www.algebra.com/cgi-bin/chat.mpl), and [Sensation Bot](http://sensationbot.com/).
 
 ![Artificial Intelligence Chat: A.L.I.C.E.](docs/images/aigui_0.2-alice.png)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FDeltik%2Fproducts-legacy.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FDeltik%2Fproducts-legacy?ref=badge_shield)
 
 ##### Discontinuation
 The code was not designed to be extensible or maintainable.  The screen-scraping strategy was poorly concocted, and the communications between the user and the proxy server use an unusual and unreliable custom format.
@@ -150,3 +151,7 @@ Deltik became less community-oriented over time and no longer sought administrat
 ##### Discontinuation
 
 Automni was discontinued, which made WebDeb unnecessary.  Other content management systems proliferated, and Automni was not exceptional enough to be worth pursuing.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FDeltik%2Fproducts-legacy.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FDeltik%2Fproducts-legacy?ref=badge_large)
